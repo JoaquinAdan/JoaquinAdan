@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaquinAdan
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me " rodriguezjdev@gmail.com "
 
