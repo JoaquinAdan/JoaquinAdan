@@ -14,6 +14,9 @@
   In progress...
 </div>
 
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <!---
 JoaquinAdan/JoaquinAdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
