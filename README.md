@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @JoaquinAdan
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ???
-- 📫 How to reach me " rodriguezjdev@gmail.com "
+- 👋 Hi, I’m @JoaquinAdan ![GitHub Created At](https://img.shields.io/github/created-at/joaquinadan/joaquinadan)
+
 
 <h3>👨‍💻 Languages</h3>
 
