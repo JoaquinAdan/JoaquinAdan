@@ -5,14 +5,16 @@
 <h3>👨‍💻 Languages</h3>
 
 <div style="display: flex; gap: 10px;">
-  <img style='height: 30px;' src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/NodeJS-42C32F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img style='height: 30px;' src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <p>In progress...</p>
+  <img style='height: 30px;' src="https://img.shields.io/badge/NodeJS-42C32F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/NextJS-323330?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/Python-086d5e?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </div>
+
+<h3>🧑‍🎓 I'm learning</h3>
+  <img style='height: 30px;' src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=github%20copilot&logoColor=white" />&nbsp;&nbsp;
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [JoaquinAdan/JoaquinAdan](https://github.com/JoaquinAdan/JoaquinAdan)<br>
