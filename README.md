@@ -9,8 +9,8 @@
   <img style='height: 30px;' src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  ![Static Badge](https://img.shields.io/badge/-n?style=plastic&logo=node.js&logoColor=white&logoSize=20px&label=Node%20js&labelColor=42c32f)
-
+  <img style='height: 30px;' src="https://img.shields.io/badge/NodeJS-42C32F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img style='height: 30px;' src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <p>In progress...</p>
 </div>
 
