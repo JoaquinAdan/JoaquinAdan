@@ -9,7 +9,6 @@
   <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/NodeJS-42C32F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp;&nbsp;
-  <img style='height: 30px;' src="https://img.shields.io/badge/NextJS-323330?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;
   <img style='height: 30px;' src="https://img.shields.io/badge/Python-086d5e?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </div>
 
